@@ -1,6 +1,6 @@
 # learning-nodejs-express
 
-Strating with Node.js , there are many useful tools that you can use called packages and the system npm (Node Package Manager) allows users to share or download packages. Express is one of them.
+Starting with Node.js , there are many useful tools that you can use called packages and the system npm (Node Package Manager) allows users to share or download packages. Express is one of them.
 
 Before working on it, we need to check versions of following as :-
                                                    
