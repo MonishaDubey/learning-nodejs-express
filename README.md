@@ -46,3 +46,7 @@ With Express, We need to specify where we have placed our CSS files and image fi
 
                                                     app.use(express.static('images'));  
 We'll add a CSS file to the public folder. To load the CSS, we need to specify the path of the CSS file relative to the public folder.
+
+# Get endpoint / Route in express
+                                                    
+                                                    app.get();
