@@ -50,3 +50,6 @@ We'll add a CSS file to the public folder. To load the CSS, we need to specify t
 # Get endpoint / Route in express
                                                     
                                                     app.get();
+Installing Nodemon command :-                       npm install -g nodemon
+
+
